@@ -20,5 +20,7 @@ Unstage
       - Before or didn't add
       - this will not be add into history
 
+Base
+- git flow can be always separated by the same base
 
 Another UP me
