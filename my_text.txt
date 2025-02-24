@@ -10,8 +10,6 @@ There are two part
 1. Make Git focus this
 2. Commit this into the history
 
-      [2nd add Test]
-
 Stage
       - after add `git add [file_name]`
       - this will be add into history
