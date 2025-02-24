@@ -14,6 +14,8 @@ Stage
       - after add `git add [file_name]`
       - this will be add into history
 
+      [Test insert]
+
 Unstage
       - Before or didn't add
       - this will not be add into history
