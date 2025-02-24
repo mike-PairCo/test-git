@@ -30,4 +30,8 @@ Another UP me
 
 hello mike okay
 
+<<<<<<< HEAD
 Both Bottom
+=======
+Edit Bottom
+>>>>>>> dc814ed (edit bottom)
